@@ -1,6 +1,10 @@
 ## input command line
 >composer update
 
+
+credit https://www.itsolutionstuff.com/post/laravel-6-auth-login-with-username-or-email-tutorialexample.html
+
+
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
